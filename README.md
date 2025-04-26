@@ -5,6 +5,10 @@ A classic **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.
 ## 👨‍💻 Developed by
 **Virat Kumar**
 
+## 📷 Screenshot
+
+Here's what the game looks like:
+
 ## 🎮 Features
 
 - ✨ Interactive and responsive design using HTML & CSS
