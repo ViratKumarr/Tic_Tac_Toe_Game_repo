@@ -8,6 +8,7 @@ A classic **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.
 ## 📷 Screenshot
 
 Here's what the game looks like:
+![image alt](https://github.com/ViratKumarr/Tic_Tac_Toe_Game_repo/blob/b16c94fa64439528a47920719ff9c4cae729c093/Tic_tac_toe_virat.png)
 
 ## 🎮 Features
 
