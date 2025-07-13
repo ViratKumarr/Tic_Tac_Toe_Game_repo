@@ -1,3 +1,6 @@
+# 🕹️ Tic Tac Toe Game
+
+A classic **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.
 
 - - -
 ## 👨‍💻 Developed by
